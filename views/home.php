@@ -5,8 +5,7 @@
      <img src="social-network-1.png" alt="social-network" id="logoImage">
     </div>
     <div class="col-sm-4">
-        <?php displaySearch(); ?>
-        <?php displayTweetBox(); ?>
+        <h1>Sito in costruzione</h1>
     </div>
   </div>
 </div>
