@@ -1,0 +1,5 @@
+# il carattere * effettua il match di zero o più caratteri
+# vengono ignorati i file come archivio.zip o cartella/archivio.zip
+*.txt
+*.old.css
+*.old.php
